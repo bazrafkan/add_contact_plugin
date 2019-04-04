@@ -1,8 +1,8 @@
 name: add_contact_plugin
 description: A new Flutter plugin.
 version: 0.0.1
-author: Sataspes<info@sataspse.net>
-homepage: https://github.com/bazrafkan/phone_status
+author: Bazrafkan<bazrafkan.mb@gmail.com>
+homepage: https://github.com/bazrafkan/add_contact_plugin
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
